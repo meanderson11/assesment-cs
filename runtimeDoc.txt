@@ -1,3 +1,5 @@
 What kind of patterns do I see:
 
 I can see that as the size of the array increases each function runtime scales at a very different rate. The append function seems to grow at a linear rate O(n) and the insert grows at an exponential rate O(n^2). The append actualy seems to start slower its not moving everything like the insert array function. The append function is better in scaling than the insert function.
+
+Also see the attached excel sheet with runtime numbers.
